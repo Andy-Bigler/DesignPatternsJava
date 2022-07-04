@@ -4,7 +4,7 @@ import Creational_Patterns.Prototype.shapes.Circle;
 import Structural_Patterns.Composite.editor.ImageEditor;
 import Structural_Patterns.Composite.shapes.CompoundShape;
 import Structural_Patterns.Composite.shapes.Dot;
-import
+import Structural_Patterns.Composite.shapes.Rectangle;
 
 import java.awt.*;
 
