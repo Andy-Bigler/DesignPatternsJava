@@ -1,6 +1,6 @@
 package Structural_Patterns.Composite;
 
-import Creational_Patterns.Prototype.shapes.Circle;
+import Structural_Patterns.Composite.shapes.Circle;
 import Structural_Patterns.Composite.editor.ImageEditor;
 import Structural_Patterns.Composite.shapes.CompoundShape;
 import Structural_Patterns.Composite.shapes.Dot;

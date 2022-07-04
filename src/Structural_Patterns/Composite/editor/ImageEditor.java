@@ -4,10 +4,11 @@ import javax.swing.*;
 import javax.swing.border.Border;
 
 import Structural_Patterns.Composite.shapes.CompoundShape;
+import Structural_Patterns.Composite.shapes.Shape;
 
-import java.awt.*;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
+import java.awt.*;
 
 public class ImageEditor {
     private EditorCanvas canvas;
