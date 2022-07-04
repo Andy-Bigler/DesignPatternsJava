@@ -1,7 +1,5 @@
 package Architecture_Patterns.PipeAndFilter;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
 import Architecture_Patterns.PipeAndFilter.filter.ConvertToCharArrayFilter;
