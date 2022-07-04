@@ -1,8 +1,8 @@
 package Architecture_Patterns.MVC;
 
 public class CourseController {
-    private Course model;
-    private CourseView view;
+    private final Course model;
+    private final CourseView view;
 
     public CourseController(Course model, CourseView view){
        this.model = model;
@@ -29,7 +29,7 @@ public class CourseController {
            model.setCategory(category);      
     }
 
-        public String getCourseCategory(){
+    public String getCourseCategory(){
            return model.getCategory();       
     }
     public void updateView(){                
